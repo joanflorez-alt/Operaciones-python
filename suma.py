@@ -13,3 +13,10 @@ a=0
 while a<3:
     print("bye bye")
     
+    
+#Segunda modificación
+
+d=4
+e=12
+print(d<e)
+    
