@@ -6,3 +6,9 @@ a=3
 b=5
 c=a+b
 print(c)
+
+#nueva linea
+
+a=0
+while a<3:
+    print("bye bye")
