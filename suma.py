@@ -19,4 +19,13 @@ while a<3:
 d=4
 e=12
 print(d<e)
+
+
+#tercera modificación
+
+a=(1,2,3,4,)
+
+for i in a:
+    print(1**2)
+    
     
